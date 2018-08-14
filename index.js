@@ -3,6 +3,7 @@ function shout(string)
   return string.toUpperCase()
 }
 
+<<<<<<< HEAD
 function whisper(string)
 {
   return string.toLowerCase()
@@ -32,4 +33,9 @@ function sayHiToGrandma(string)
   {
     return "I love you, too."
   }
+=======
+function whistper(string)
+{
+  return string.toLowerCase()
+>>>>>>> f0eb3bb08f9283cf9a17cc96bd006cf1b244da59
 }
